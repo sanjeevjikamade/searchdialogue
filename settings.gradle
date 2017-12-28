@@ -1,1 +1,1 @@
-include ':app', ':searchdialogue'
+include ':app'
